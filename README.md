@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mudasir Hussain Channa</h1>
 <h3 align="center">Gen-AI | Python Developer</h3>
 
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2imhMwLkTQ1VgvdbxisJgN&ust=1735285860737000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjavej5xIoDFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="400" scr="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasirhussainchanna&label=Profile%20views&color=0e75b6&style=flat" alt="mudasirhussainchanna" /> </p>
 
